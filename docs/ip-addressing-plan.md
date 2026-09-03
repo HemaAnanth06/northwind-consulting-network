@@ -1,4 +1,4 @@
-# IP Addressing Plan — Northw
+# IP Addressing Plan — Northwind-consulting-network
 ## Design Approach
 VLSM (Variable Length Subnet Masking) was used instead of a single fixed 
 mask, so each department's subnet is sized to its actual host count plus 
